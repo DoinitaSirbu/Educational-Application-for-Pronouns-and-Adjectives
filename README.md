@@ -1,7 +1,7 @@
 Educational Application for Pronouns and Adjectives
 ##Overview
 
-This educational application is designed to help users learn and practice pronouns and adjectives through quizzes and tests. The application provides a user-friendly interface for navigating educational content and assessing knowledge.
+This educational application, crafted using Windows Forms, is designed to help users learn and practice pronouns and adjectives through quizzes and tests. The intuitive user interface ensures easy navigation through educational content, making it seamless for users to assess and enhance their knowledge.
 
 ##Features
 Quiz Sections: Explore quizzes focused on Pronouns and Adjectives.
