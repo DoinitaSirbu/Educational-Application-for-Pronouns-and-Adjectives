@@ -1,0 +1,783 @@
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\ApEducationala4.exe.config
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Animator.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Azure.Core.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Azure.Identity.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\MetroFramework.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\OpenAI_API.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Buffers.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.Data.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Permissions.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Json.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.ValueTuple.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Azure.Core.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Azure.Identity.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\OpenAI_API.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Buffers.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.Data.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Permissions.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Json.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\System.ValueTuple.xml
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.AssemblyReference.cache
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.FormPaginaPrincipala.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveSimpleCompuse.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveVariabileInvariabile.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina1Adj.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina3Adj.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina4Adj.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina5Adj.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAjutorSuport.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormInstruire.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina2Adj.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLectiiAdjective1.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLocutiuniAdjectivale.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormMaterialeEducationale.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPrezentareaAplicatiei.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume2.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume1.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume3.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume4.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina1Pronume.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina2Pronume.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina3Pronume.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina4Pronume.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina5Pronume.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestePagina4.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Properties.Resources.resources
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.GenerateResource.cache
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CoreCompileInputs.cache
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CopyComplete
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\licentaa info\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\ApEducationala4.exe.config
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Animator.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Azure.Core.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Azure.Identity.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\MetroFramework.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\OpenAI_API.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Buffers.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.Data.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Permissions.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Json.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.ValueTuple.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Azure.Core.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Azure.Identity.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\OpenAI_API.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Buffers.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Memory.Data.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Permissions.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Text.Json.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\System.ValueTuple.xml
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.AssemblyReference.cache
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.FormPaginaPrincipala.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveSimpleCompuse.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveVariabileInvariabile.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina1Adj.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina3Adj.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina4Adj.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina5Adj.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAjutorSuport.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormInstruire.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina2Adj.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLectiiAdjective1.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLocutiuniAdjectivale.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormMaterialeEducationale.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPrezentareaAplicatiei.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume2.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume1.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume3.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume4.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina1Pronume.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina2Pronume.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina3Pronume.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina4Pronume.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina5Pronume.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestePagina4.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.Properties.Resources.resources
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.GenerateResource.cache
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CoreCompileInputs.cache
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CopyComplete
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\ApEducationala4\ApEducationala4\obj\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\ApEducationala4.exe.config
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Animator.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Azure.Core.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Azure.Identity.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\MetroFramework.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\OpenAI_API.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Buffers.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Memory.Data.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Memory.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.Permissions.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Text.Json.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.ValueTuple.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Azure.Core.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Azure.Identity.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\OpenAI_API.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Buffers.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Memory.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Memory.Data.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.Permissions.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Text.Json.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\System.ValueTuple.xml
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.AssemblyReference.cache
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.FormPaginaPrincipala.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveSimpleCompuse.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveVariabileInvariabile.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina1Adj.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina3Adj.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina4Adj.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina5Adj.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAjutorSuport.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormInstruire.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina2Adj.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLectiiAdjective1.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLocutiuniAdjectivale.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormMaterialeEducationale.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPrezentareaAplicatiei.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume2.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume1.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume3.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume4.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina1Pronume.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina2Pronume.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina3Pronume.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina4Pronume.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina5Pronume.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestePagina4.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.Properties.Resources.resources
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.GenerateResource.cache
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CoreCompileInputs.cache
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CopyComplete
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\app\ApEducationala4\obj\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\ApEducationala4.exe.config
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Animator.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Azure.Core.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Azure.Identity.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\EntityFramework.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\MetroFramework.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\OpenAI_API.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Buffers.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Memory.Data.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Memory.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.Permissions.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Text.Json.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.ValueTuple.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Azure.Core.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Azure.Identity.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\EntityFramework.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\OpenAI_API.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Buffers.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Memory.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Memory.Data.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.Permissions.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Text.Json.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\System.ValueTuple.xml
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.AssemblyReference.cache
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveSimpleCompuse.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveVariabileInvariabile.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina1Adj.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina3Adj.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina4Adj.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjective.FormTesteAdjective.FormTestPagina5Adj.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAjutorSuport.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormInstruire.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestPagina2Adj.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLectiiAdjective1.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLocutiuniAdjectivale.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormMaterialeEducationale.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPrezentareaAplicatiei.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume2.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume1.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume3.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume4.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPagina1Pronume.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestePagina4.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Properties.Resources.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.GenerateResource.cache
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CoreCompileInputs.cache
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CopyComplete
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.Migrations.InitialCreate.resources
+C:\Users\Doinita\Desktop\AplicatieEducationala - Copy\ApEducationala4\obj\Debug\ApEducationala4.FormTeste.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\ApEducationala4.exe.config
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Animator.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Azure.Core.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Azure.Identity.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\MetroFramework.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\OpenAI_API.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Buffers.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Memory.Data.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Memory.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.Permissions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Text.Json.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.ValueTuple.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Azure.Core.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Azure.Identity.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\OpenAI_API.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Buffers.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Memory.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Memory.Data.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.Permissions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Text.Json.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\System.ValueTuple.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.AssemblyReference.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.FormTeste.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveSimpleCompuse.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveVariabileInvariabile.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestAdjectiv.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAjutorSuport.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormInstruire.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLectiiAdjective1.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLocutiuniAdjectivale.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormMaterialeEducationale.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPrezentareaAplicatiei.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume2.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume1.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume3.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume4.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPronume.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestePagina4.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Migrations.InitialCreate.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Properties.Resources.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.GenerateResource.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CoreCompileInputs.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CopyComplete
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învățarea Pronumelor Și Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\ApEducationala4.exe.config
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Animator.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Azure.Core.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Azure.Identity.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\MetroFramework.Design.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\MetroFramework.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\OpenAI_API.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Buffers.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Memory.Data.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Memory.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.Permissions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Text.Json.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.ValueTuple.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Azure.Core.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Azure.Identity.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\OpenAI_API.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Buffers.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Memory.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Memory.Data.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.Permissions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Text.Json.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\System.ValueTuple.xml
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.AssemblyReference.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.FormTeste.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveSimpleCompuse.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAdjectiveVariabileInvariabile.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestAdjectiv.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormAjutorSuport.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormInstruire.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLectiiAdjective1.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormLocutiuniAdjectivale.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormMaterialeEducationale.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPrezentareaAplicatiei.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume2.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume1.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume3.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormPronume4.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormPronume.FormTestePronume.FormTestPronume.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Forms.FormTestePagina4.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Migrations.InitialCreate.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.Properties.Resources.resources
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.GenerateResource.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CoreCompileInputs.cache
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\AplicatieEducationala.csproj.CopyComplete
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.exe
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\obj\Debug\ApEducationala4.pdb
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Resources\Pronumele.pdf
+C:\Users\Doinita\Desktop\Aplicatie Educationala Pentru Învatarea Pronumelor Si Adjectivelor\ApEducationala4\bin\Debug\Resources\Adjectivul.pdf
